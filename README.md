@@ -1,2 +1,2 @@
 # utils
-useful utils
+필요한 기능들을 정리한 곳
